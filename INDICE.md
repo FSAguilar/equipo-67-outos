@@ -3,3 +3,4 @@
 - Sopa de mani (Fidel)
 - Chairo (Ignacio)
 - Picante surtido (Ignacio)
+- Sajta (Ignacio)
