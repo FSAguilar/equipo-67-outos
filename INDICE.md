@@ -3,4 +3,5 @@
 * Sopa de mani (Fidel)
 * Fricasé paceño (Alvin)
 * Fritanga paceña (Alvin)
+* Picana (Alvin)
 
