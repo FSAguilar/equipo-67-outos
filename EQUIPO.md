@@ -2,8 +2,6 @@
 
 ## Integrantes
 
-Diego Machicao
-
 
 
 Fidel Aguilar (Lider)
