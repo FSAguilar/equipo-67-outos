@@ -1,3 +1,19 @@
 # Equipo 67 - Outos
+
 ## Integrantes
-Fidel Aguilar
+
+
+
+Fidel Aguilar (Lider)
+
+
+
+Ignacio Cardenas (Responsable de calidad)
+
+
+
+Alvin Alejo
+
+
+
+Diego Machicao
