@@ -4,3 +4,6 @@
 - Chairo (Ignacio)
 - Picante surtido (Ignacio)
 - Sajta (Ignacio)
+- Fricasé paceño (Alvin)
+- Fritanga paceña (Alvin)
+- Picana (Alvin)
