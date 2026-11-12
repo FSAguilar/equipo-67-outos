@@ -1,3 +1,6 @@
 - Pique macho (Fidel)
 - Silpancho (Fidel)
 - Sopa de mani (Fidel)
+- Chairo (Ignacio)
+- Picante surtido (Ignacio)
+- Sajta (Ignacio)
