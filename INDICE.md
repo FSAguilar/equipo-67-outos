@@ -1,3 +1,5 @@
-- Pique macho (Fidel)
-- Silpancho (Fidel)
-- Sopa de mani (Fidel)
+* Pique macho (Fidel)
+* Silpancho (Fidel)
+* Sopa de mani (Fidel)
+* Fricasé paceño (Alvin)
+
