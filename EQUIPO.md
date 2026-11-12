@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-diego (diego rama dev/diego)
+Diego Machicao
 
 
 
@@ -18,3 +18,4 @@ Alvin Alejo
 
 
 
+Diego Machicao
