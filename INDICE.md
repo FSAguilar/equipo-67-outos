@@ -2,3 +2,4 @@
 - Silpancho (Fidel)
 - Sopa de mani (Fidel)
 - Plato Paceño (Diego)
+- Mondongo Chuquisaqueño (Diego)
