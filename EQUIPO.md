@@ -2,6 +2,8 @@
 
 ## Integrantes
 
+diego (diego rama dev/diego)
+
 
 
 Fidel Aguilar (Lider)
