@@ -1,3 +1,3 @@
 # Equipo 67 - Outos
 ## Integrantes
-Fidel Aguilar
+Fidel Aguilar (Lider)
