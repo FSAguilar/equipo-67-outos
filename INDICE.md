@@ -1,0 +1,3 @@
+- Pique macho (Fidel)
+- Silpancho (Fidel)
+- Sopa de mani (Fidel)

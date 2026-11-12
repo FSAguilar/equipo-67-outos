@@ -1,4 +1,20 @@
 # Equipo 67 - Outos
+
 ## Integrantes
-Fidel Aguilar
-- diego (diego rama dev/diego)
+
+diego (diego rama dev/diego)
+
+
+
+Fidel Aguilar (Lider)
+
+
+
+Ignacio Cardenas (Responsable de calidad)
+
+
+
+Alvin Alejo
+
+
+
